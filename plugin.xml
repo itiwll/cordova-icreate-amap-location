@@ -98,6 +98,5 @@
         <framework src="Security.framework" />
         <framework src="libz.tbd" />
         <framework src="libc++.tbd" />
-        <framework src="libstdc++.6.0.9.tbd" />
     </platform>
 </plugin>
