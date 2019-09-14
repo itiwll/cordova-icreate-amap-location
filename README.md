@@ -28,7 +28,7 @@
 
 ## 安装
 
-    cordova plugin add cordova-icreate-amap-location --variable ANDROID_KEY=高德网站申请android证书 --variable IOS_KEY=高德网站申请IOS证书
+    cordova plugin add cordova plugin add https://github.com/itiwll/cordova-icreate-amap-location.git --variable ANDROID_KEY=高德网站申请android证书 --variable IOS_KEY=高德网站申请IOS证书
 
 ## 方法
 - 获取当前定位
